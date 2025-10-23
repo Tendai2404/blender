@@ -29,6 +29,9 @@ set(INC_SYS
 
 set(SRC
   intern/qfea_material.c
+  intern/qfea_physics_fdtd.c
+  intern/qfea_physics_particle.c
+  intern/qfea_physics_quantum.c
   intern/qfea_tensor.c
   intern/qfea_voxel.c
 
