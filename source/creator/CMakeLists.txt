@@ -23,6 +23,7 @@ set(LIB
   PRIVATE bf::sequencer
   PRIVATE bf::windowmanager
   PRIVATE bf::dependencies::optional::opencolorio
+  bf_qfea
 )
 
 if(HAVE_FEENABLEEXCEPT)

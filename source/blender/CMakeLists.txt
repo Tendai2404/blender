@@ -182,6 +182,7 @@ add_subdirectory(io)
 add_subdirectory(functions)
 add_subdirectory(makesdna)
 add_subdirectory(makesrna)
+add_subdirectory(qfea)
 add_subdirectory(compositor)
 add_subdirectory(compositor/shaders)
 

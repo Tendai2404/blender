@@ -184,6 +184,7 @@ void RNA_def_particle(BlenderRNA *brna);
 void RNA_def_pointcloud(BlenderRNA *brna);
 void RNA_def_pose(BlenderRNA *brna);
 void RNA_def_profile(BlenderRNA *brna);
+void RNA_def_qfea(BlenderRNA *brna);
 void RNA_def_lightprobe(BlenderRNA *brna);
 void RNA_def_render(BlenderRNA *brna);
 void RNA_def_rigidbody(BlenderRNA *brna);
