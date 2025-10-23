@@ -102,7 +102,7 @@ blender_add_lib(bf_qfea "${SRC}" "${INC}" "${INC_SYS}" "${LIB}")
 # CUDA kernel compilation (if enabled)
 if(WITH_CUDA)
   set(CUDA_SRC
-    # intern/qfea_kernels_cuda.cu
+    intern/qfea_kernels_cuda.cu
   )
 
   # CUDA compilation would be configured here
